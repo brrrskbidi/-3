@@ -1,0 +1,28 @@
+header {
+    font-family: sans-serif;
+    background-color:khaki;
+    padding:3px;
+}
+header h1{
+    text-align:center;
+}
+a{
+    text-decoration:none;
+    color:DarkKhaki;
+    font-family:cursive;
+    font-size:25px;
+    background-color:Moccasin;
+    border-radius: 15px;
+    margin:10px;
+    
+}
+h2{
+    font-family:sans-serif;
+    text-align:center;
+}
+p{
+    font-family:cursive;
+}
+body{
+    background-color:rgb(170, 236, 150);
+}
